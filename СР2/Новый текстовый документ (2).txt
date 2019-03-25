@@ -1,0 +1,17 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+    int a, b, g, c, t1, t2, i;
+    string e
+    
+    cout<<"Vvedite osnovanie treygolnika";
+    cin>>a;
+    cout<<"Vvedite dve drugie storoni:";
+    cin>>b>>g;
+    
+    
+    e=(b==g)?"True":"False"'
+    cout<<e<<endl;
+    return 0;
+}
